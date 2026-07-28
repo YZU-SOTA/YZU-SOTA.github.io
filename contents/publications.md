@@ -1,6 +1,8 @@
-- 负责人1 +, 负责人2 +, 负责人3 * and <strong>负责人4 *</strong> (2024). 论文名字. <strong>论文期刊</strong>. [[Paper]](https://xxgcxy.yzu.edu.cn/) [[Code]](https://xxgcxy.yzu.edu.cn/)
+- Chaowei Zhang, Zongling Feng, Zewei Zhang, Jipeng Qiang, Guandong Xu, <strong>Yun Li*</strong> (2025). Is LLMs Hallucination Usable? LLM-based Negative Reasoning for Fake News Detection. <strong>AAAI </strong>. [[Paper]](https://ojs.aaai.org/index.php/AAAI/article/view/32089) [[Code]](https://github.com/Sandra-feng/papercode)
 
-- 负责人1 +, 负责人2 +, 负责人3 * and <strong>负责人4 *</strong> (2024). 书本名字. <strong>出版社</strong>. [[Paper]](https://xxgcxy.yzu.edu.cn/) [[Code]](https://xxgcxy.yzu.edu.cn/)
+- Chaowei Zhang, Xiansheng Luo, Zewei Zhang, Jipeng Qiang, <strong>Longwei Wang*</strong>, <strong>Yi Zhu*</strong> (2026). Acting Flatterers via LLMs Sycophancy: Combating Clickbait with LLMs Opposing-Stance Reasoning. <strong>WWW26: Proceedings of the ACM Web Conference 2026</strong>. [[Paper]](https://dl.acm.org/doi/abs/10.1145/3774904.3792506) [[Code]](https://github.com/126541/ORCD)
+
+- Chaowei Zhang, Zhicong Wang, Zewei Zhang, Yi Zhu, Yuchao Huang, <strong>Jipeng Qiang*</strong>, <strong>Yi Zhu*</strong> (2026). Turning hallucinations into knowledge: Towards identifying clickbait using LLM-generated fallacies. <strong>Information Processing & Management</strong>. [[Paper]](https://www.sciencedirect.com/science/article/abs/pii/S0306457326002967) [[Code]](https://github.com/sining-LL/CIIC)
 
 
 
